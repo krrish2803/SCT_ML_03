@@ -70,4 +70,4 @@ Apply data augmentation to balance learning.
 
 👤 Author: Krrish Yaduka
 📧 Contact: "kyaduka2803@gmail.com"
-Linkedin : "linkedin.com/in/krrish-yaduka-16aa72293/"
+Linkedin : "https://www.linkedin.com/in/krrish-yaduka-16aa72293/"
